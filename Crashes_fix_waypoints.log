@@ -1,6 +1,6 @@
 --  Redistribución fix core crash WaypointMovementGenerator::LoadPath: --
 
-
+::WAYPOINTS::
 UPDATE `creature` SET `MovementType`=1, `spawndist`=5 WHERE `guid`=REFID;
 
 -- Redistribución fix core crash --

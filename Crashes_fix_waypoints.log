@@ -1,9 +1,10 @@
 --  Redistribución fix core crash WaypointMovementGenerator::LoadPath: --
 
-::WAYPOINTS::
+::WAYPOINTS MOVEMENT NPC::
 UPDATE `creature` SET `MovementType`=1, `spawndist`=5 WHERE `guid`=REFID;
 
 -- Redistribución fix core crash --
 --SmartScript: Entry RED IF has events but no events added to list because of instance flags.--
 
 SELECT * FROM smart_script WHERE entryorguid LIKE ="%REFID%"
+ 

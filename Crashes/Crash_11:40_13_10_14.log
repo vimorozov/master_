@@ -1,0 +1,17 @@
+SmartScript: Entry 4284 has events but no events added to list because of instance flags.
+Creature 15938326 (Entry: 33251) have UNIT_NPC_FLAG_TRAINER but have empty trainer spell list.
+Creature 15938326 (Entry: 33251) have UNIT_NPC_FLAG_TRAINER but have empty trainer spell list.
+Creature 15938326 (Entry: 33251) have UNIT_NPC_FLAG_TRAINER but have empty trainer spell list.
+Creature 15938326 (Entry: 33251) have UNIT_NPC_FLAG_TRAINER but have empty trainer spell list.
+Creature 15938326 (Entry: 33251) have UNIT_NPC_FLAG_TRAINER but have empty trainer spell list.
+Creature 15938326 (Entry: 33251) have UNIT_NPC_FLAG_TRAINER but have empty trainer spell list.
+Creature 15938326 (Entry: 33251) have UNIT_NPC_FLAG_TRAINER but have empty trainer spell list.
+Creature 15938326 (Entry: 33251) have UNIT_NPC_FLAG_TRAINER but have empty trainer spell list.
+Creature 15938326 (Entry: 33251) have UNIT_NPC_FLAG_TRAINER but have empty trainer spell list.
+Creature 15938326 (Entry: 33251) have UNIT_NPC_FLAG_TRAINER but have empty trainer spell list.
+WaypointMovementGenerator::LoadPath: creature Julak-Doom (Entry: 50089 GUID: 260078) doesn't have waypoint path id: 0
+SmartScript: Entry 46591 has events but no events added to list because of instance flags.
+Gameobject (Entry: 203208 GoType: 10) have data12=203208 but GO (Entry 203208) have not GAMEOBJECT_TYPE_TRAP (6) type.
+Map entry 116 from `disables` doesn't exist in dbc, skipped.
+
+Estatus : Reparado
